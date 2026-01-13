@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **SmartDoc an AI powered document explainer**
 
-- 🌱 I’m currently learning **react and finetuning of llms**
+- 🌱 I’m currently learning **typescript and rag systems**
 
 - 👨‍💻 All of my projects are available at [link](link)
 
 - 📝 I regularly write articles on [https://x.com/__MayankKashyap](https://x.com/__MayankKashyap)
 
-- 💬 Ask me about **react and llms**
+- 💬 Ask me about **typescript and llms**
 
 - 📫 How to reach me **immayankkashyap@gmail.com or twitter: __MayankKashyap**
 
