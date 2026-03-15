@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/__mayankkashyap" target="blank"><img src="https://img.shields.io/twitter/follow/__mayankkashyap?logo=twitter&style=for-the-badge" alt="__mayankkashyap" /></a> </p>
 
-- 🔭 I’m currently working on **SmartDoc an AI powered document explainer**
+- 🔭 Some projects I am working on currently are:
+  **Rag based chatbot**
+  **RiverSide clone**
 
 - 🌱 I’m currently learning **typescript and rag systems**
 
