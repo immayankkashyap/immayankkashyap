@@ -4,16 +4,16 @@
 <p align="left"> <a href="https://twitter.com/__mayankkashyap" target="blank"><img src="https://img.shields.io/twitter/follow/__mayankkashyap?logo=twitter&style=for-the-badge" alt="__mayankkashyap" /></a> </p>
 
 - 🔭 Some projects I am working on currently are:
-  **Rag based chatbot** ; 
-  **RiverSide clone**
+  **Multi-Level Agent Orchestration Platform for Financial Decision Making** ; 
+  **Remote Video Conferencing Tool**
 
-- 🌱 I’m currently learning **typescript and rag systems**
+- 🌱 I’m currently learning **Agentic AI systems**
 
 - 👨‍💻 All of my projects are available at [link](link)
 
 - 📝 I regularly write articles on [https://x.com/__MayankKashyap](https://x.com/__MayankKashyap)
 
-- 💬 Ask me about **typescript and llms**
+- 💬 Ask me about **AI systems**
 
 - 📫 How to reach me **immayankkashyap@gmail.com or twitter: __MayankKashyap**
 
